@@ -1,8 +1,8 @@
+// modular.js
+
 var keypad = require('./keypad');
 
-//console.log(keypad.getCharCombos('34'));
-
-var keysPressed = "31";
+var keysPressed = "234";
 
 keypad.getCharCombos(keysPressed, function(err, data) {
     if (err) {
