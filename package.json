@@ -1,0 +1,18 @@
+{
+  "name": "modular",
+  "version": "1.0.0",
+  "description": "This is a sample keypad app",
+  "main": "modular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies" : {
+	"keypad" : "0.1.1"
+  },
+  "keywords": [
+    "keypad",
+    "modular"
+  ],
+  "author": "Mary Jane Barger",
+  "license": "ISC"
+}
